@@ -103,6 +103,8 @@ ChatGPT-Plus 客户端是官方 ChatGPT API 的应用程序。该应用程序是
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/zhpd/chatgpt-plus)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/zhpd/chatgpt-plus)
+
 或者克隆到本地开发，按照以下步骤进行：
 
 ## 🚀安装运行
